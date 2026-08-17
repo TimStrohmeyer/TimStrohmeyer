@@ -41,3 +41,5 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=HvRpfw4A
 📧 [tstrohmeyer@ethz.ch](mailto:tstrohmeyer@ethz.ch) (ETH) · [Tim.Strohmeyer1@ibm.com](mailto:Tim.Strohmeyer1@ibm.com) (IBM) · [tim.strohmeyer@t-online.de](mailto:tim.strohmeyer@t-online.de) (personal)
 
 <sub>Always happy to talk about document AI, chemistry-aware models, or collaborations.</sub>
+
+<sub>🎵 Outside research I make music — [my artist page on Spotify](https://open.spotify.com/artist/3ZzZmQKRPqyabdrLPKOlWD).</sub>
