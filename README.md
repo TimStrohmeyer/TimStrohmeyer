@@ -31,6 +31,12 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=HvRpfw4A
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+## 🎵 Beyond research
+
+I also make music. My tracks are on Spotify:
+
+[![Spotify](https://img.shields.io/badge/Spotify-Artist%20Page-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/artist/3ZzZmQKRPqyabdrLPKOlWD)
+
 ## 📫 Get in touch
 
 [![Website](https://img.shields.io/badge/Website-timstrohmeyer.github.io-0969da?style=flat&logo=googlechrome&logoColor=white)](https://timstrohmeyer.github.io/)
@@ -41,5 +47,3 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=HvRpfw4A
 📧 [tstrohmeyer@ethz.ch](mailto:tstrohmeyer@ethz.ch) (ETH) · [Tim.Strohmeyer1@ibm.com](mailto:Tim.Strohmeyer1@ibm.com) (IBM) · [tim.strohmeyer@t-online.de](mailto:tim.strohmeyer@t-online.de) (personal)
 
 <sub>Always happy to talk about document AI, chemistry-aware models, or collaborations.</sub>
-
-<sub>🎵 Outside research I make music — [my artist page on Spotify](https://open.spotify.com/artist/3ZzZmQKRPqyabdrLPKOlWD).</sub>
