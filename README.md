@@ -33,7 +33,7 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=HvRpfw4A
 
 ## 🎵 Beyond research
 
-I also make music. My tracks are on Spotify:
+I also make music WITHOUT AI :) My tracks are on Spotify:
 
 [![Spotify](https://img.shields.io/badge/Spotify-Artist%20Page-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/artist/3ZzZmQKRPqyabdrLPKOlWD)
 
