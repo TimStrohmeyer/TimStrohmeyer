@@ -10,7 +10,7 @@ At ETH I am part of the [Computer Vision Lab](https://vision.ee.ethz.ch) led by 
 
 ## 🔬 Research interests
 
-`Computer Vision` · `Multimodal Machine Learning` · `Vision-Language Models` · `Document AI` · `OCR` · `Optical Chemical Structure Recognition`
+`Computer Vision` · `Multimodal Machine Learning` · `Vision-Language Models` · `Document AI` · `OCR` · `Optical Chemical Structure Recognition` · `AI for Chemistry`
 
 Recurring themes in my work:
 
