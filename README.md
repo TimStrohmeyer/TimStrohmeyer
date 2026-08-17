@@ -38,6 +38,6 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=HvRpfw4A
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=HvRpfw4AAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tim-strohmeyer-437a76185/)
 
-📧 [tstrohmeyer@ethz.ch](mailto:tstrohmeyer@ethz.ch) · [Tim.Strohmeyer1@ibm.com](mailto:Tim.Strohmeyer1@ibm.com)
+📧 [tstrohmeyer@ethz.ch](mailto:tstrohmeyer@ethz.ch) (ETH) · [Tim.Strohmeyer1@ibm.com](mailto:Tim.Strohmeyer1@ibm.com) (IBM) · [tim.strohmeyer@t-online.de](mailto:tim.strohmeyer@t-online.de) (personal)
 
 <sub>Always happy to talk about document AI, chemistry-aware models, or collaborations.</sub>
