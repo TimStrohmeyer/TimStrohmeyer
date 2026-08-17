@@ -2,7 +2,7 @@
 
 **Ph.D. student at [ETH Zürich](https://ethz.ch/en.html) · Pre-Doctoral Researcher at [IBM Research – Zurich](https://research.ibm.com/labs/zurich)**
 
-I work on **multimodal machine learning for document understanding** — teaching vision-language models to read documents the way domain experts do: layout, tables, formulas, and chemical structures included.
+I work on **multimodal machine learning for document understanding** — My research focuses on multimodal machine learning for document understanding. I work within the Docling Team, focusing on Vision-Language Models for document parsing and chemical structure extraction.
 
 At ETH I am part of the [Computer Vision Lab](https://vision.ee.ethz.ch) led by [Prof. Dr. Ender Konukoglu](https://people.ee.ethz.ch/~kender/). At IBM Research I work with [Dr. Peter W. J. Staar](https://research.ibm.com/people/peter-staar) in the *AI for Knowledge* group, as part of the team behind [Docling](https://github.com/docling-project/docling). I hold an M.Sc. in Robotics, Cognition, Intelligence from TU Munich.
 
